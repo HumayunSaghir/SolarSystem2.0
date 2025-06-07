@@ -6,4 +6,5 @@ body{
 
 button:hover{
     background-color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
